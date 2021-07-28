@@ -1,7 +1,7 @@
 # 基岩版加入服务器
 
 服务器基岩版进服插件每周更新,请确保客户端为最新版本! 目前版本: 1.17.2  
-IP:s1.skycraft.cn 端口:20251
+IP:be.skycraft.cn 端口:19132
 
 * 请使用最新国际版Minecraft.
 * 请确保你的Xbox ID与Java版 ID相同.
