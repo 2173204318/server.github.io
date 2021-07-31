@@ -6,4 +6,5 @@
 * [AE2储存系统使用帮助](ae2.md)
 * [匠魂 / SlimeTinker](slimetinker.md)
 * [更好的生存机制 /  Tweakin](https://doc.skycraft.cn/v/plugins/tweakin)
+* [空岛插件边界](https://doc.skycraft.cn/v/plugins/kong-dao-cha-jian-bian-jie-guan-li)
 
