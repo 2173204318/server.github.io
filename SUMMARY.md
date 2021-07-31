@@ -6,4 +6,5 @@
 * [匠魂 / MineTinker](minetinker.md)
 * [全球市场](qqsc.md)
 * [更好的生存机制 /  Tweakin](https://doc.skycraft.cn/v/plugins/tweakin)
+* [单方块插件边界](https://doc.skycraft.cn/v/plugins/kong-dao-cha-jian-bian-jie-guan-li)
 
